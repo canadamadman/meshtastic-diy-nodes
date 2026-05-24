@@ -98,7 +98,6 @@
 | [Econotastic](https://sites.google.com/view/econotastic/home) | RP2040 | 🚫 |
 | [MichTastic_Node](https://github.com/Hamspiced/MichTastic_Node) | nRF52840 | ✅ |
 | [Hammer-1W_LoRa-board](https://github.com/BrokenCircuitRanch/Hammer-1W_LORA-board) | ESP32-WROOM-32 | ✅ |
-| [18650 Hat Node](https://github.com/canadamadman/18650_Hat_Node/) | nRF52840 | 🚫 |
 | [meshtastic-mini](https://oshwhub.com/shenye894/meshtastic-mini) | nRF52840 | 🚫 |
 | [GAT562 Mesh Trial Tracker](https://github.com/quhyhao/GAT562) | nRF52840 | 🚫 |
 | [easy_E22](https://github.com/brad112358/easy_E22) | nRF52840 | ✅ |
@@ -106,6 +105,11 @@
 | [LR2021-Explorer](https://github.com/GeneralSyb/LR2021-Explorer) | - | LR2021 |
 | [Meshlet](https://www.5panel.dance/Meshlet/) | RP2040 | 🚫 |
 | [BirbMesh-One](https://github.com/KokoSoft/BirbMesh-One) | nRF52840 | ✅ |
+| | **[canadamadman's designs](https://github.com/canadamadman)** | |
+| [18650 Hat Node](https://github.com/canadamadman/18650_Hat_Node/) | nRF52840 | 🚫 |
+| [Outdoor Node](https://github.com/canadamadman/Outdoor_Node) | nRF52840 | 🚫 |
+| [Box Node](https://github.com/canadamadman/Box_Node) | nRF52840 | 🚫 |
+| [Entendo_Node_Boy](https://github.com/canadamadman/Entendnode_Node_Boy) | nRF52840 | 🚫 |
 | | **Not necessarily Meshtastic but still cool!** | |
 | [Tanmatsu](https://nicolaielectronics.nl/tanmatsu/) | ESP32-P4 | 🚫 |
 | [Walkie-Textie](https://github.com/technoblogy/walkie-textie) | ATtiny814 | 🚫 |

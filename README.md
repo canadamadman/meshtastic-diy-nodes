@@ -87,6 +87,11 @@
 | [Albatastic PRO](https://github.com/EmilioAL-Git/PCB-Albatastic-PRO) | nRF52840 | ✅ |
 | [Albatastic Node](https://github.com/sqtactical/Albatastic_Node) | nRF52840 | ✅ |
 | [Albapipe Meshtastic Node](https://github.com/miguelleonmanzano/Albapipe-Meshtastic-Node) | nRF52840 | ✅ |
+| | **[canadamadman's designs](https://github.com/canadamadman)** | |
+| [18650 Hat Node](https://github.com/canadamadman/18650_Hat_Node/) | nRF52840 | 🚫 |
+| [Outdoor Node](https://github.com/canadamadman/Outdoor_Node) | nRF52840 | 🚫 |
+| [Box Node](https://github.com/canadamadman/Box_Node) | nRF52840 | 🚫 |
+| [Entendo_Node_Boy](https://github.com/canadamadman/Entendnode_Node_Boy) | nRF52840 | 🚫 |
 | | **Misc Projects** | |
 | [Project Hydra](https://github.com/Hydra-Designs/project-hydra-meshtastic-pcb) | ESP32-WROOM-32U | ✅ |
 | [xiao-ble](https://github.com/andrew-moroz/xiao-ble-pcb) | nRF52840 | ✅ |
@@ -105,11 +110,6 @@
 | [LR2021-Explorer](https://github.com/GeneralSyb/LR2021-Explorer) | - | LR2021 |
 | [Meshlet](https://www.5panel.dance/Meshlet/) | RP2040 | 🚫 |
 | [BirbMesh-One](https://github.com/KokoSoft/BirbMesh-One) | nRF52840 | ✅ |
-| | **[canadamadman's designs](https://github.com/canadamadman)** | |
-| [18650 Hat Node](https://github.com/canadamadman/18650_Hat_Node/) | nRF52840 | 🚫 |
-| [Outdoor Node](https://github.com/canadamadman/Outdoor_Node) | nRF52840 | 🚫 |
-| [Box Node](https://github.com/canadamadman/Box_Node) | nRF52840 | 🚫 |
-| [Entendo_Node_Boy](https://github.com/canadamadman/Entendnode_Node_Boy) | nRF52840 | 🚫 |
 | | **Not necessarily Meshtastic but still cool!** | |
 | [Tanmatsu](https://nicolaielectronics.nl/tanmatsu/) | ESP32-P4 | 🚫 |
 | [Walkie-Textie](https://github.com/technoblogy/walkie-textie) | ATtiny814 | 🚫 |
